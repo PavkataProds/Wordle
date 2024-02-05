@@ -1,4 +1,4 @@
-Note: Code is located in "app\Main.hs"
+Note: Code is located in "app/Main.hs"
 
 The project is an improvement of the famous game "Wordle", in which the user has to guess a 5-letter word, having only 6 given attempts, but also hints related to the choice of letters - coloring in gray if the letter is not present in the answer, in yellow if it's in the word but not in the right place and green if it's in the right position.
 The improvements consist in the fact that the project supports two modes - "Game" and "Assistant" and different difficulties of - easy, standard and expert.
